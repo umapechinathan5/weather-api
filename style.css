@@ -1,0 +1,15 @@
+.card-header{
+  text-align: center;
+  background-color: skyblue;
+}
+.card-body{
+  text-align: center;
+  background-color: #525050;
+  color: white;
+}
+.card{
+  margin-top: 10px;
+}
+body{
+  background-color: #ffcccc;
+}
